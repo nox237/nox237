@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm an active Binus University Cyber Security Student. I also have a [github pages](https://nox237.github.io/) that contain my writeups during CTF Below is skills that i learned during my college at Bina Nusantara University:
+I'm an active Binus University Cyber Security Student. I also have a [github pages](https://nox237.github.io/) that contain my writeups during CTF. Below is skills that i learned during my college at Bina Nusantara University:
 
 ## 🌱 Programming Languages
 
